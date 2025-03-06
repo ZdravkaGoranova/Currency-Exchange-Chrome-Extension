@@ -4,7 +4,7 @@
     "version": "1.0.0",
     "description": "Extension to content currencies quickly",
     "action": {
-        "default_icon": "exchange_rate.png",
+        "default_icon": "images/exchange_rate.png",
         "default_popup": "popup.html"
     }
 }
