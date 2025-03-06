@@ -5,6 +5,6 @@
     "description": "Extension to content currencies quickly",
     "action": {
         "default_icon": "images/exchange_rate.png",
-        "default_popup": "popup.html"
+        "default_popup": "popup/popup.html"
     }
 }
