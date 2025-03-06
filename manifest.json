@@ -1,0 +1,10 @@
+{
+    "manifest_version": 3,
+    "name": "Exchange Rates",
+    "version": "1.0.0",
+    "description": "Extension to content currencies quickly",
+    "action": {
+        "default_icon": "exchange_rate.png",
+        "default_popup": "popup.html"
+    }
+}
