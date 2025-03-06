@@ -12,7 +12,8 @@ A simple Chrome extension that allows users to quickly convert currencies using 
 
 ## 📸 Screenshots
 
-
+![](/extensions.png)
+![](/extensions-view.png)
 
 ## 🛠 Installation
 ### Clone the repository:
